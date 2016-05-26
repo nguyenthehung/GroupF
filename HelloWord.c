@@ -3,7 +3,7 @@
 int main(void)　                     // こちら２行目 
 {                                    // こちら３行目 
    printf("Hello, world!");         // こちら４行目 
-   printf("Hello, world１１１１１!");// こちら５XXXXXXX行目
+   printf("Hello, world222222!");// こちら５XXXXXXX行目
    printf("Hi Sensei at the file name you forgotte the l");//（笑）６行目
 　 printf("Thank you for your kindness");//７行目
    printf("Oh!! Word!!, you are joking"); 
