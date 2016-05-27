@@ -1,5 +1,6 @@
+ooooooooooooooooooooo
 #include <stdio.h>                    // こちら１行目 
-   
+いじわるバーさん、コンフリクト  
 int main(void)　                     // こちら２行目 
 {                                    // こちら３行目 
    printf("Hello, world!");         // こちら４行目 
