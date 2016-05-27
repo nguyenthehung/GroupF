@@ -10,7 +10,7 @@ int main(void)　                     // こちら２行目
 　 printf("Thank you for your kindness\n");//７行目
    printf("Oh!! Word!!, you are joking\n"); 
    printf("今までの時間返してくれ～");
-   printf("コンフリクト発生実験");１２３
+   printf("コンフリクト発生実験");
    int a=3;  
    
    // ---------------------
