@@ -8,7 +8,7 @@ int main(void)　                     // こちら２行目
 　 printf("Thank you for your kindness\n");//７行目
    printf("Oh!! Word!!, you are joking\n"); 
     
-   a=3;  
+   int a=3;  
    // ---------------------
    printf("Oh!Yes, it is my mistake");  //７XXXXXXXXX行目
    printf("I am very sory that ^^");  //７XXXXXXXXX行目
