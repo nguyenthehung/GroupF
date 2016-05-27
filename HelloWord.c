@@ -1,4 +1,3 @@
-How tired!! 
 #include <stdio.h>                    // こちら１行目 
    
 int main(void)　                     // こちら２行目 
