@@ -7,7 +7,7 @@ int main(void)　                     // こちら２行目
    printf("Hi Sensei at the file name you forgotte the l");//（笑）６行目
 　 printf("Thank you for your kindness");//７行目
    printf("Oh!! Word!!, you are joking"); 
-   
+   printf("今日も書きたしをします”）"); //5月27日書きたした
    // ---------------------
    printf("Oh!Yes, it is my mistake");  //７XXXXXXXXX行目
    printf("I am very sory that ^^");  //７XXXXXXXXX行目
