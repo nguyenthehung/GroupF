@@ -1,5 +1,6 @@
+ooooooooooooooooooooo
 #include <stdio.h>                    // こちら１行目 
-   
+いじわるバーさん、コンフリクト  １２３
 int main(void)　                     // こちら２行目 
 {                                    // こちら３行目 
    printf("Hello, world!");         // こちら４行目 
@@ -9,7 +10,7 @@ int main(void)　                     // こちら２行目
 　 printf("Thank you for your kindness\n");//７行目
    printf("Oh!! Word!!, you are joking\n"); 
    printf("今までの時間返してくれ～");
-   printf("コンフリクト発生実験");
+   printf("コンフリクト発生実験");１２３
    int a=3;  
    
    // ---------------------
